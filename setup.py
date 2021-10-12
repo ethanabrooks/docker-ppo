@@ -15,7 +15,7 @@ setup(
     install_requires=[
         "tensorboardX==1.8",
         "tensorflow>=1.15",
-        "opencv-python==4.1.0.25",
+        "opencv-python==4.1.1.26",
         "psutil==5.7.0",
         "requests==2.22.0",
     ],
